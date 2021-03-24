@@ -10,9 +10,12 @@ Adnan Menderes Üniversitesinde okuyorum, gündüzleri eğitim hayatım devam ed
 Sosyal Medya Hesaplarım 😛 
 
 
-![instagram](https://user-images.githubusercontent.com/74311713/112395789-1c605300-8d10-11eb-8d80-ec4c61530bda.png)
-https://www.instagram.com/smtcoder/
+![instagram](https://user-images.githubusercontent.com/74311713/112395789-1c605300-8d10-11eb-8d80-ec4c61530bda.png)             https://www.instagram.com/smtcoder/
+
+
  https://www.linkedin.com/in/samet-akca-2a4bbb1a8/
+ 
+ 
  https://www.youtube.com/channel/UCZXmqpZJ3ax5Uzm0pXeVqMg
 
 Web Sitem ;
