@@ -44,3 +44,6 @@ Ve elbette GitHub zaten (Özyineleme) üzerindesiniz.
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SametAkca&hide=contribs,prs)
+
+
+! [ Anurag'ın GitHub istatistikleri] (https://github-readme-stats.vercel.app/api ? Username = sametakca & show_icons = true )
