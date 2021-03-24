@@ -42,7 +42,7 @@ Ve elbette GitHub zaten (Özyineleme) üzerindesiniz.
 
 
 <a href="https://sametakca.com/d41d8-about-me/">
- 
+ web site
 </a>
 
 
