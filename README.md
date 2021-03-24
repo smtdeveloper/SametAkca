@@ -13,8 +13,8 @@ Adnan Menderes Üniversitesinde okuyorum, gündüzleri eğitim hayatım devam ed
 </a>
 
 Sosyal Medya Hesaplarım 😛
-
 <br>
+
 <a href="https://www.instagram.com/smtcoder/">
 instagram
 </a>
@@ -28,11 +28,13 @@ linkedin
 <a href="https://www.youtube.com/channel/UCZXmqpZJ3ax5Uzm0pXeVqMg">
 youtube
 </a>
+
+<br>
 <br>
 
 
 Tutkulu olduğum şeyler
-
+<br>
 Android 🤖
 React 
 C# 
