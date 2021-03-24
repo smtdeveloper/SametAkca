@@ -14,21 +14,21 @@ Adnan Menderes Üniversitesinde okuyorum, gündüzleri eğitim hayatım devam ed
 
 Sosyal Medya Hesaplarım 😛
 
-
+<br>
 <a href="https://www.instagram.com/smtcoder/">
 instagram
 </a>
-
+<br>
 
 <a href="https://www.linkedin.com/in/samet-akca-2a4bbb1a8/">
 linkedin
 </a>
-
+<br>
 
 <a href="https://www.youtube.com/channel/UCZXmqpZJ3ax5Uzm0pXeVqMg">
 youtube
 </a>
-
+<br>
 
 
 Tutkulu olduğum şeyler
