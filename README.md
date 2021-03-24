@@ -42,7 +42,7 @@ Ve elbette GitHub zaten (Özyineleme) üzerindesiniz.
 
 
 <a href="https://sametakca.com/d41d8-about-me/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sametakca&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=github-readme-stats" />
 </a>
 
 
