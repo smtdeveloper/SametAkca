@@ -51,3 +51,5 @@ Ve elbette GitHub zaten (Özyineleme) üzerindesiniz.
 
 Projeye yıldız eklemek ve projeyi paylaşmak 🚀
 Teşekkürler! ❤️
+
+https://studio.youtube.com/channel/UCZXmqpZJ3ax5Uzm0pXeVqMg/editing/images
