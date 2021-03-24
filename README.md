@@ -50,6 +50,5 @@ Ve elbette GitHub zaten (Özyineleme) üzerindesiniz.
 💖 Projeyi destekleyin
 
 Projeye yıldız eklemek ve projeyi paylaşmak 🚀
-Teşekkürler! ❤️
+Teşekkürler! ❤️![pexels-анна-рыжкова-3077882](https://user-images.githubusercontent.com/74311713/112397939-1ff5d900-8d14-11eb-82ee-936ec33044e5.jpg)
 
-https://studio.youtube.com/channel/UCZXmqpZJ3ax5Uzm0pXeVqMg/editing/images
