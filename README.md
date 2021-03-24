@@ -8,19 +8,26 @@ Ben Samet Akca, 2018 yılında “Hello Word” diyerek yazılım dünyasına gi
 
 Adnan Menderes Üniversitesinde okuyorum, gündüzleri eğitim hayatım devam ederken, geceleri fütursuzca kendimi geliştiriyorum.
 
-Web Sitem ;
-https://sametakca.com
+<a href="https://sametakca.com/">
+ web sitem :)
+</a>
 
-Sosyal Medya Hesaplarım 😛 
+Sosyal Medya Hesaplarım 😛
 
+<a href="https://www.instagram.com/smtcoder/">
 instagram
-https://www.instagram.com/smtcoder/
+</a>
 
+<a href=" https://www.linkedin.com/in/samet-akca-2a4bbb1a8/">
 linkedin
- https://www.linkedin.com/in/samet-akca-2a4bbb1a8/
+</a>
+
+<a href="https://www.youtube.com/channel/UCZXmqpZJ3ax5Uzm0pXeVqMg">
+youtube
+</a>
+
  
- youtube
- https://www.youtube.com/channel/UCZXmqpZJ3ax5Uzm0pXeVqMg
+ 
 
 
 
@@ -41,9 +48,7 @@ Ve elbette GitHub zaten (Özyineleme) üzerindesiniz.
 
 
 
-<a href="https://sametakca.com/d41d8-about-me/">
- web site
-</a>
+
 
 
 
