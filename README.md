@@ -19,13 +19,16 @@ Sosyal Medya Hesaplarım 😛
 instagram
 </a>
 
+
 <a href="https://www.linkedin.com/in/samet-akca-2a4bbb1a8/">
 linkedin
 </a>
 
+
 <a href="https://www.youtube.com/channel/UCZXmqpZJ3ax5Uzm0pXeVqMg">
 youtube
 </a>
+
 
 
 Tutkulu olduğum şeyler
