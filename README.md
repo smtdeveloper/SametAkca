@@ -39,15 +39,6 @@ LinkedIn'deki gelecekteki çalışanınız
 Ve elbette GitHub zaten (Özyineleme) üzerindesiniz.
 
 
-[![Anurag's GitHub stats](https:https://github.com/smtdeveloper)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-
-
-
-
 
 <a href="https://sametakca.com/d41d8-about-me/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
@@ -55,3 +46,10 @@ Ve elbette GitHub zaten (Özyineleme) üzerindesiniz.
 <a href="https://www.instagram.com/smtcoder/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
+
+
+
+💖 Projeyi destekleyin
+
+Projeye yıldız eklemek ve projeyi paylaşmak 🚀
+Teşekkürler! ❤️
