@@ -7,9 +7,14 @@ Ben Samet Akca, 2018 yılında “Hello Word” diyerek yazılım dünyasına gi
 
 Adnan Menderes Üniversitesinde okuyorum, gündüzleri eğitim hayatım devam ederken, geceleri fütursuzca kendimi geliştiriyorum.
 
+Sosyal Medya Hesaplarım 😛 
+
+içerik Sayfam = https://www.instagram.com/smtcoder/
+
 Web Sitem ;
 
 https://sametakca.com
+
 
 Tutkulu olduğum şeyler
 
