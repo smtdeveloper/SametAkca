@@ -12,11 +12,12 @@ Web Sitem ;
 https://sametakca.com
 
 Tutkulu olduğum şeyler
+
 Android 🤖
 React 
 C# 
 Angular
-Açık kaynak : octocat:
+
 
 İletişim  ☕
 Gelecekteki arkadaşınız, Android ile ilgili konuları ve genel olarak teknolojiyi Twitter'da tartışacak .
