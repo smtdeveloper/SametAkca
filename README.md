@@ -1,1 +1,2 @@
 # SametAkca
+ben samet
