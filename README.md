@@ -13,6 +13,9 @@ https://sametakca.com
 
 Tutkulu olduğum şeyler
 Android 🤖
+React 
+C# 
+Angular
 Açık kaynak : octocat:
 
 İletişim  ☕
