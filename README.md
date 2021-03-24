@@ -51,9 +51,9 @@ Ve elbette GitHub zaten (Özyineleme) üzerindesiniz.
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://sametakca.com/d41d8-about-me/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://www.instagram.com/smtcoder/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
