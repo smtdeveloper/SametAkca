@@ -40,3 +40,7 @@ Ve elbette GitHub zaten (Özyineleme) üzerindesiniz.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SametAkca)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samet Akca&hide=contribs,prs)
