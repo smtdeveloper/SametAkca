@@ -49,7 +49,9 @@ Ve elbette GitHub zaten (Özyineleme) üzerindesiniz.
   <img align="center" src="![instagram](https://user-images.githubusercontent.com/74311713/112397449-2768b280-8d13-11eb-8d6a-3301575cc09f.png)" />
 </a>
 
-
+<a href="https://sametakca.com/d41d8-about-me/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
 
 💖 Projeyi destekleyin
 
