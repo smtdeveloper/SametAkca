@@ -40,5 +40,8 @@ Angular
 💖 Projeyi destekleyin
 
 Projeye yıldız Vermeyi  ve projeyi Paylaşın Unutmayın  🚀
-Teşekkürler! ❤️![pexels-анна-рыжкова-3077882](https://user-images.githubusercontent.com/74311713/112397939-1ff5d900-8d14-11eb-82ee-936ec33044e5.jpg)
+Teşekkürler! ❤️
+
+![Uploading WhatsApp Image 2020-12-19 at 20.48.45.jpeg…]()
+
 
