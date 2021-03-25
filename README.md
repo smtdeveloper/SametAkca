@@ -37,9 +37,9 @@ React
 C# 
 Angular
 
-💖 Projeyi destekleyin
+💖
 
-Projeye yıldız Vermeyi  ve projeyi Paylaşın Unutmayın  🚀
+Projeye yıldız Vermeyi Unutmayın  🚀
 Teşekkürler! ❤️
 
 ![01](https://user-images.githubusercontent.com/74311713/112488054-48bab480-8d8e-11eb-9f1e-e41efb912cc5.jpeg)
