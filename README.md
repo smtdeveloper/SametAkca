@@ -37,19 +37,6 @@ React
 C# 
 Angular
 
-
-İletişim  ☕
-Gelecekteki arkadaşınız, Android ile ilgili konuları ve genel olarak teknolojiyi Twitter'da tartışacak .
-Gelecekteki hayat kurtarıcınız 😛Orta üzerinde .
-LinkedIn'deki gelecekteki çalışanınız
-Ve elbette GitHub zaten (Özyineleme) üzerindesiniz.
-
-
-
-
-
-
-
 💖 Projeyi destekleyin
 
 Projeye yıldız Vermeyi  ve projeyi Paylaşın Unutmayın  🚀
