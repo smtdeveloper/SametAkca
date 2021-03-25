@@ -42,6 +42,7 @@ Angular
 Projeye yıldız Vermeyi  ve projeyi Paylaşın Unutmayın  🚀
 Teşekkürler! ❤️
 
-![Uploading WhatsApp Image 2020-12-19 at 20.48.45.jpeg…]()
+![01](https://user-images.githubusercontent.com/74311713/112488054-48bab480-8d8e-11eb-9f1e-e41efb912cc5.jpeg)
+
 
 
