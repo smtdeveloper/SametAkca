@@ -34,7 +34,7 @@ Tutkulu olduğum şeyler 💖
 <br>
 Android 🤖   <br>
 React <br>
-Java s<br>
+Java <br>
 C# <br>
 Angular <br>
 
