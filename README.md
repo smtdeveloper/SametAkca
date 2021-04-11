@@ -30,14 +30,15 @@ youtube
 <br>
 
 
-Tutkulu olduğum şeyler
+Tutkulu olduğum şeyler 💖
 <br>
-Android 🤖
-React 
-C# 
-Angular
+Android 🤖   <br>
+React <br>
+Java s<br>
+C# <br>
+Angular <br>
 
-💖
+
 
 Projeye yıldız Vermeyi Unutmayın  🚀
 Teşekkürler! ❤️
