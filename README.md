@@ -33,10 +33,8 @@ youtube
 Tutkulu olduğum şeyler 💖
 <br>
 Android 🤖   <br>
-React <br>
-Java <br>
-C# <br>
-Angular <br>
+Java - React <br>
+C#  - Angular <br>
 
 
 
