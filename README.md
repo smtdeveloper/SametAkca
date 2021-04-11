@@ -8,7 +8,7 @@ Adnan Menderes Üniversitesinde okuyorum, gündüzleri eğitim hayatım devam ed
 <a href="https://sametakca.com/">
  web sitem :)
 </a>
-
+<br> <br>
 Sosyal Medya Hesaplarım 😛
 <br>
 
