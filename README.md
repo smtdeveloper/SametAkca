@@ -1,10 +1,8 @@
  
  <h2> Ben Kimim </h2>
  
-Ben Samet Akca, 2018 yılında “Hello Word” diyerek yazılım dünyasına giriş yaptım, bu zamana kadar web, mobil, yapay zeka alanlarında çalıştım ve grafik tasarım eğitimleri aldım.
-
-Adnan Menderes Üniversitesinde okuyorum, gündüzleri eğitim hayatım devam ederken, geceleri fütursuzca kendimi geliştiriyorum.
-
+Ben Samet Akca, namı değer SMTcoder 🙂
+Adnan Menderes Üniversitesin'den (ADÜ) Bilgisiyar Programcılıgı Bölümün'den 2021 yılında mezun oldum. Java ile android mobil uygulamalar geliştirdim ve google play'de yayınladım. Kodlama.io platformun'dan "Engin Demirog" eğitmenliğinde C# - Angular ile Rental Car projesi geliştirdim ve gurur tablosuna girdim. CevizSOFT sirketinde Mobil Developer olarak 2019 yaz tatilinde 3 ay stajımı gerçekleştirdim , kendimi geliştiyorum ve araştırmalarıma devam ediyorum. Saygılarınızla
 <a href="https://sametakca.com/">
  web sitem :)
 </a>
