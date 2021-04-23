@@ -25,6 +25,12 @@ youtube
 </a>
 
 <br>
+
+<a href="https://play.google.com/store/apps/developer?id=Samet+Akca&gl=TR">
+Google Play uygulamalarım
+</a>
+
+<br>
 <br>
 
 
