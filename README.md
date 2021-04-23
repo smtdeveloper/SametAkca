@@ -4,9 +4,9 @@
 Ben Samet Akca, namı değer SMTcoder 🙂 <br>
 Adnan Menderes Üniversitesin'den (ADÜ) Bilgisiyar Programcılıgı Bölümün'den 2021 yılında mezun oldum. Java ile android mobil uygulamalar geliştirdim ve google play'de yayınladım. Kodlama.io platformun'dan "Engin Demirog" eğitmenliğinde C# - Angular ile Rental Car projesi geliştirdim ve gurur tablosuna girdim. CevizSOFT sirketinde Mobil Developer olarak 2019 yaz tatilinde 3 ay stajımı gerçekleştirdim , kendimi geliştiyorum ve araştırmalarıma devam ediyorum. Saygılarınızla.
 <br>
-<a href="https://sametakca.com/">
- <h2>  web sitem :) </h2> 
-</a>
+
+ <h3> <a href="https://sametakca.com/">  web sitem </a> </h3> 
+ 
 <br> <br>
 Sosyal Medya Hesaplarım 😛
 <br>
