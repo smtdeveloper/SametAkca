@@ -40,8 +40,7 @@ Google Play
 
 
 
-
-https://user-images.githubusercontent.com/74311713/129424942-24974fe6-6d51-4524-8dc8-a0a6d1ab91ff.mp4
+![WhatsApp Image 2021-08-14 at 01 44 07](https://user-images.githubusercontent.com/74311713/129424965-e0147298-a92f-4197-b304-8abfb3d9e6c3.jpeg)
 
 
 
