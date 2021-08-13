@@ -38,7 +38,8 @@ Google Play
 <br>
 
 
-![01](https://user-images.githubusercontent.com/74311713/112488054-48bab480-8d8e-11eb-9f1e-e41efb912cc5.jpeg)
+![WhatsApp Image 2021-04-17 at 15 11 25](https://user-images.githubusercontent.com/74311713/129424600-ac3727a7-ec4d-4c7d-8181-631d45e507cd.jpeg)
+
 
 
 
