@@ -1,14 +1,12 @@
  # Samet Akca
  
  <div>
-  < a href="https://github.com/smtdeveloper">
+  < a href="https://beacons.ai/smtdeveloper">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smtdeveloper&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact&langs_count=16&theme=dracula"/>
- </div>
+</div>
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smtdeveloper&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact)](https://github.com/smtdeveloper/github-readme-stats)
 
 
 <a href="https://github.com/smtdeveloper/GameProje">
