@@ -2,19 +2,35 @@
  
  <div>
 <a href="https://github.com/smtdeveloper">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=smtdeveloper&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact&langs_count=16&theme=react"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=smtdeveloper&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+ <img height="140em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact&langs_count=16&theme=dark"/>
+ </div>
  
-</div>
+ <div style="display: inline_block"><br>
+  <img align="center" height="50" width="50" src="https://icongr.am/devicon/angularjs-original.svg?size=95&color=currentColor">
+   <img align="center" height="50" width="50" src="https://icongr.am/devicon/csharp-original.svg?size=95&color=543131">
+   <img align="center" height="50" width="50" src="https://icongr.am/devicon/javascript-original.svg?size=95&color=543131">
+   <img align="center" height="50" width="50" src="https://icongr.am/devicon/java-original-wordmark.svg?size=95&color=543131r">
+   <img align="center" height="50" width="50" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=95&color=543131">
+   <img align="center" height="50" width="50" src="https://icongr.am/devicon/php-original.svg?size=95&color=543131">
+   <img align="center" height="50" width="50" src="https://icongr.am/devicon/python-original.svg?size=95&color=543131">
+   <img align="center" height="50" width="50" src="https://icongr.am/devicon/react-original-wordmark.svg?size=95&color=543131">
+   <img align="center" height="50" width="50" src="https://icongr.am/devicon/typescript-original.svg?size=95&color=543131">
+   <img align="center" height="50" width="50" src="https://icongr.am/devicon/android-original.svg?size=95&color=543131">
+  
  
+ </div>
+ 
+ ---
+<br> 
 
-
-
-<a href="https://github.com/smtdeveloper/GameProje">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=GameProje" />
+ <a href="https://github.com/ReCarProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject&theme=dark&include_all_commits=true&count_private=true" />
 </a>
-<a href="https://github.com/ReCarProject">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject" />
+
+  <a href="https://github.com/ReCar-FrontEnd">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCar-FrontEnd&theme=dark&include_all_commits=true&count_private=true" />
 </a>
 
 
