@@ -38,9 +38,7 @@ Google Play
 <br>
 
 
-'''
-Console.WriteLine("Hello World!");
-'''
+`console.log("Hello, World!");`
 
 ![WhatsApp Image 2021-08-14 at 01 44 07](https://user-images.githubusercontent.com/74311713/129424965-e0147298-a92f-4197-b304-8abfb3d9e6c3.jpeg)
 
