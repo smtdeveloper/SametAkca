@@ -53,4 +53,7 @@ console.log("Hello, World!");
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smtdeveloper&show_icons=true)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smtdeveloper&count_private=true)
+
+
 
