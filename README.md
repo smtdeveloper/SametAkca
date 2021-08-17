@@ -49,3 +49,5 @@ console.log("Hello, World!");
 | :--- | :---: | ---: |
 | 1 | Açıklama | Fiyatı |
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
