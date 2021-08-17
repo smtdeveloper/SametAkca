@@ -1,7 +1,14 @@
+ # Samet Akca
  
+ <div>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=smtdeveloper&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact)](https://github.com/smtdeveloper/github-readme-stats)
+ </div>
+ 
+
+
 
 <a href="https://github.com/smtdeveloper/GameProje">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=GameProje" />
@@ -13,7 +20,7 @@
 
 
 
-<h2> Ben Kimim </h2>
+## Ben Kimim 
  
 Ben Samet Akca, namı diğer  SMTcoder 🙂 <br>
 Adnan Menderes Üniversitesin'den (ADÜ) Bilgisiyar Programcılıgı Bölümün'den 2021 yılında mezun oldum. Java ile android mobil uygulamalar geliştirdim ve google play'de yayınladım. Kodlama.io platformun'dan "Engin Demirog" eğitmenliğinde C# - Angular ile Rental Car projesi ( araç kiralama sitesi ) geliştirdim ve gurur tablosuna  ismimi yazdırmayı başardım. CevizSOFT sirketinde Mobil Developer olarak 2019 yaz tatilinde 3 ay stajımı gerçekleştirdim , kendimi geliştiyorum ve araştırmalarıma devam ediyorum. Saygılarınızla.
