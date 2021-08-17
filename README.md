@@ -23,7 +23,13 @@
  </div>
  
  ---
-<br> 
+
+ <div> 
+ 	<a href="https://www.instagram.com/smtcoder/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   	<a href="" target="_blank"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" target="_blank"></a>
+   	<a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+   	<a href="https://www.instagram.com/smtcoder/" target="_blank"><img src="https://img.shields.io/github/followers/{smtdeveloper}.svg?style=social&label=Follow&maxAge=2592000" target="_blank"></a>
+ </div>
 
  <a href="https://github.com/ReCarProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject&theme=dark&include_all_commits=true&count_private=true" />
