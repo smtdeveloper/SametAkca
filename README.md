@@ -87,7 +87,7 @@ Adnan Menderes Üniversitesin'den (ADÜ) Bilgisiyar Programcılıgı Bölümün'
 
 
 | Title 1  | Title 2| Title 3|
-| :--- | :---: | ---: |
+| :---: | :---: | :---: |
 | :white_check_mark: SMTcoder | :white_check_mark: SMTcoder | :white_check_mark: SMTcoder |
 
 
