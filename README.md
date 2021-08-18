@@ -57,7 +57,7 @@ static void SMTcoder()
 
 
 
-
+### ReCap Project : Araba Kiralama Sistemi Rent A Car
  
  <a href="https://github.com/ReCarProject">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCarProject&theme=dark&include_all_commits=true&count_private=true" />
@@ -67,15 +67,17 @@ static void SMTcoder()
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=ReCar-FrontEnd&theme=dark&include_all_commits=true&count_private=true" />
 </a>
 
-    <a href="https://github.com/InterfaceAbstractDemo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=InterfaceAbstractDemo&theme=dark&include_all_commits=true&count_private=true" />
-</a>
+
+   ### Nero ve Starbucks için müşteri kaydetme ve Starbucks için mernis ile doğrulama projesi
+C# - Angular kampı
 
   <a href="https://github.com/GameProje">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=GameProje&theme=dark&include_all_commits=true&count_private=true" />
 </a>
 
-
+ <a href="https://github.com/InterfaceAbstractDemo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smtdeveloper&repo=InterfaceAbstractDemo&theme=dark&include_all_commits=true&count_private=true" />
+</a>
 
 
 ## Ben Kimim    :octocat:
