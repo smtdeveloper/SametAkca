@@ -1,4 +1,4 @@
- # Samet Akca
+ # Samet Akca (SMTcodder) :smiley:
  
  <div>
 <a href="https://github.com/smtdeveloper">
@@ -6,7 +6,7 @@
  <img height="130em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smtdeveloper&layout=compact&langs_count=16&theme=dark"/>
  </div>
- 
+
  <div style="display: inline_block"><br>
   <img align="center" height="50" width="50" src="https://icongr.am/devicon/angularjs-original.svg?size=95&color=currentColor">
    <img align="center" height="50" width="50" src="https://icongr.am/devicon/csharp-original.svg?size=95&color=543131">
@@ -18,7 +18,7 @@
    <img align="center" height="50" width="50" src="https://icongr.am/devicon/react-original-wordmark.svg?size=95&color=543131">
    <img align="center" height="50" width="50" src="https://icongr.am/devicon/typescript-original.svg?size=95&color=543131">
    <img align="center" height="50" width="50" src="https://icongr.am/devicon/android-original.svg?size=95&color=543131">
-  
+
  
  </div>
  
@@ -32,7 +32,7 @@
   	<a href="https://sametakca.com/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
   <a href="https://smtcoder.tabbs.co/" target="_blank"><img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" target="_blank"></a>
   
-    SMTcoder
+   :fire: :rocket:
  
  </div>
  
@@ -70,7 +70,7 @@ static void SMTcoder()
 
 
 
-## Ben Kimim 
+## Ben Kimim    :octocat:
  
 Ben Samet Akca, namı diğer  SMTcoder 🙂 <br>
 Adnan Menderes Üniversitesin'den (ADÜ) Bilgisiyar Programcılıgı Bölümün'den 2021 yılında mezun oldum. Java ile android mobil uygulamalar geliştirdim ve google play'de yayınladım. Kodlama.io platformun'dan "Engin Demirog" eğitmenliğinde C# - Angular ile Rental Car projesi ( araç kiralama sitesi ) geliştirdim ve gurur tablosuna  ismimi yazdırmayı başardım. CevizSOFT sirketinde Mobil Developer olarak 2019 yaz tatilinde 3 ay stajımı gerçekleştirdim , kendimi geliştiyorum ve araştırmalarıma devam ediyorum. Saygılarınızla.
@@ -78,15 +78,17 @@ Adnan Menderes Üniversitesin'den (ADÜ) Bilgisiyar Programcılıgı Bölümün'
 
 
 
+ :white_circle: SMTcoder <br>
+ :red_circle: SMTcoder <br>
+ :large_blue_circle:SMTcoder <br>
  
- 
 
 
 
 
-| Title 1| Title 2| Title 3|
+| Title 1  | Title 2| Title 3|
 | :--- | :---: | ---: |
-|SMTcoder | SMTcoder | SMTcoder |
+| :white_check_mark: SMTcoder | :white_check_mark: SMTcoder | :white_check_mark: SMTcoder |
 
 
 
