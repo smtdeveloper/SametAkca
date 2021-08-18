@@ -30,9 +30,16 @@
    	<a href="https://www.youtube.com/channel/UCZXmqpZJ3ax5Uzm0pXeVqMg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/samet-akca-2a4bbb1a8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   	<a href="https://sametakca.com/" target="_blank"><img src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg" target="_blank"></a>
-  
+    SMTcoder
+ 
  </div>
-
+ 
+```C#
+static void SMTcoder()
+    {
+          Console.Write("Hello World!");
+    }
+```
   <div>
 <a href="https://github.com/smtdeveloper">
 <img height="300em" src="https://user-images.githubusercontent.com/74311713/129817662-ebf563d5-fb64-4d33-9913-3839677c6c7a.PNG"/> 
