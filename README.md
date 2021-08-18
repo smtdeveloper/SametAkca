@@ -44,9 +44,9 @@ static void SMTcoder()
 ```
   <div>
 <a href="https://github.com/smtdeveloper">
-<img height="300em" src="https://user-images.githubusercontent.com/74311713/129817662-ebf563d5-fb64-4d33-9913-3839677c6c7a.PNG"/> 
- <img height="350em" src="https://user-images.githubusercontent.com/74311713/129817703-3a5d261f-fd4b-4ee3-adbb-41bda0e8b1ff.PNG"/>
-<img height="300em" src="https://user-images.githubusercontent.com/74311713/129817726-e474cb92-cb77-4e14-94bc-a3489bd1fecc.PNG"/>
+<img height="250em" src="https://user-images.githubusercontent.com/74311713/129817662-ebf563d5-fb64-4d33-9913-3839677c6c7a.PNG"/> 
+ <img height="280em" src="https://user-images.githubusercontent.com/74311713/129817703-3a5d261f-fd4b-4ee3-adbb-41bda0e8b1ff.PNG"/>
+<img height="250em" src="https://user-images.githubusercontent.com/74311713/129817726-e474cb92-cb77-4e14-94bc-a3489bd1fecc.PNG"/>
  </div>
 
  <br> 
