@@ -1,4 +1,4 @@
- # Samet Akca (SMTcodder) :smiley:
+ # Samet Akca (SMTcoder) :smiley:
  
  <div>
 <a href="https://github.com/smtdeveloper">
