@@ -84,9 +84,9 @@ Adnan Menderes Üniversitesin'den (ADÜ) Bilgisiyar Programcılıgı Bölümün'
 
 
 
-| Ürünlerin Numaraları| Ürün Açıklaması| Ürünlerin Fiyatı|
+| Title 1| Title 2| Title 3|
 | :--- | :---: | ---: |
-| 1 | Açıklama | Fiyatı |
+|SMTcoder | SMTcoder | SMTcoder |
 
 
 
